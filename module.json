@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "chatlinks",
+    "author": "SupremeSorc",
+    "description": "Proof of concept library to add clickable buttons to execute toolbox commands",
+    "servers": ["https://raw.githubusercontent.com/SupremeSorc/chatlinks/main/"],
+    "version": "1.0"
+}
